@@ -30,6 +30,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ovisarkar62&show_icons=true&locale=en" alt="ovisarkar62" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ovisarkar62&" alt="ovisarkar62" /></p>
