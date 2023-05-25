@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Problem Solving](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving)
 
-- 🌱 I’m currently doing project on **E-commerce Website**
+- 🌱 I’m currently doing **MERN Stack** project
 
-- 💬 Ask me about **ML, NLP, Computer Vision**
+- 💬 Ask me about **ML, NLP, MERN Stack**
 
 - 📫 How to reach me **ovisarkareceian@gmail.com**
 
-- 📄 Know about my experiences [Ovi Sarkar](https://drive.google.com/file/d/1HJ7wmPlDlZt5_KtKMkeHfid5I4mJjoZH/view?usp=share_link)
+- 📄 Know about me [Ovi Sarkar](https://myself-ovi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
