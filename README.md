@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on [Problem Solving](https://www.hackerrank.com/domains/algorithms?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=problem-solving)
 
-- 🌱 I’m currently doing **MERN Stack** project
+- 🌱 I’m currently doing **Laravel** project
 
-- 💬 Ask me about **ML, NLP, MERN Stack**
+- 💬 Ask me about **Laravel, MERN Stack, Machine Learning**
 
 - 📫 How to reach me **ovisarkareceian@gmail.com**
 
